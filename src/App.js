@@ -2,12 +2,12 @@ import React, {Fragment} from 'react';
 
 import 'bulma/css/bulma.css';
 
-import Signup from './components/signup/Signup';
+import Signup from './components/signup/SignUp';
 
-const App = () => {
-  return <>
+const App = () =>
+  
+  <>
       <Signup/>
-  </>;
-};
+  </>
 
 export default App;

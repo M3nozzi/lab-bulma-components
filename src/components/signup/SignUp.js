@@ -1,10 +1,10 @@
 import React, { Fragment } from 'react';
 
 import FormField from '../formfield/FormField';
-import Nav from '../navbar/Nav';
+import Nav from '../navbar/Navbar';
 import CoolButton from '../coolbutton/CoolButton';
 import Container from '../container/Container';
-import Message from '../mensagem/Message';
+import Message from '../message/Message';
 
 const Signup = () => 
     <>

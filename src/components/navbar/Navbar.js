@@ -1,9 +1,9 @@
 import React from 'react';
 import CoolButton from '../coolbutton/CoolButton';
 
-import './Nav.css';
+import './Navbar.css';
 
-const Nav = () => 
+const Navbar = () => 
   <nav className="navbar is-transparent">
     <div className="navbar-brand">
       <a className="navbar-item" href="https://bulma.io">
@@ -36,4 +36,4 @@ const Nav = () =>
     </div>
   </nav>
 
-export default Nav;
+export default Navbar;
